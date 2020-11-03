@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello there 👋 
 
-<!--
-**shantun7792/shantun7792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Shantun Parmar, 
 
-Here are some ideas to get you started:
+A Full Stack Software Developer @ CoodingDessign.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼  Things that I'm currently working on: 
+* A few side projects for my portfolio
+* Obtaining an Python Certification
+* Learning something new everyday
+* 🔜
+ 
+ ## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, Javascript,CSS**
+- Backend development using **Node.js,Express,Python,PHP**
+- Making **Relational Database Management Systems**
+- Creating scalable cloud architecture using **AWS,Firebase**
+- Solving Data structure and algorithm questions in **JavaScript and Python**
+
+**Connect with me:**
+<p align="left">
+<a href="https://twitter.com/ParmarShantun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shantun-parmar-7886b0182/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://medium.com/@shan007parmar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
+ &nbsp;&nbsp;
+</p>
+
+
+⭐️ From [Shantun Parmar](http://shantunparmar.in)
