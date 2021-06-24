@@ -22,9 +22,6 @@ Github Stats
 
 ![Shantun github stats](https://github-readme-stats.vercel.app/api?username=shantunparmar)
 
-Top Languages 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantunparmar)]
 
 **Connect with me:**
 <p align="left">
