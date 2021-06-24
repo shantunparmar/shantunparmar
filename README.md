@@ -22,6 +22,10 @@ Github Stats
 
 ![Shantun github stats](https://github-readme-stats.vercel.app/api?username=shantunparmar)
 
+Top Languages 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantunparmar)]
+
 **Connect with me:**
 <p align="left">
 <a href="https://twitter.com/ParmarShantun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shantun parmar" height="40" width="40" /></a> &nbsp;&nbsp;
