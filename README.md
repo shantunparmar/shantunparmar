@@ -17,6 +17,9 @@ Talk to me about
 - Making **Relational Database Management Systems**
 - Creating scalable cloud architecture using **AWS,Firebase**
 - Solving Data structure and algorithm questions in **JavaScript and Python**
+<hr>
+Stats
+![Shantun's github stats](https://github-readme-stats.vercel.app/api?username=shantunparmar)
 
 **Connect with me:**
 <p align="left">
