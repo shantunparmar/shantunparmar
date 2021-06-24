@@ -2,7 +2,7 @@
 
 ### I'm Shantun Parmar, 
 
-A Full Stack Software Developer @ CoodingDessign.com
+A Full Stack Software Developer
 
 ### 💼  Things that I'm currently working on: 
 * A few side projects for my portfolio
