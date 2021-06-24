@@ -18,7 +18,8 @@ Talk to me about
 - Creating scalable cloud architecture using **AWS,Firebase**
 - Solving Data structure and algorithm questions in **JavaScript and Python**
 <hr>
-Stats
+Github Stats
+
 ![Shantun github stats](https://github-readme-stats.vercel.app/api?username=shantunparmar)
 
 **Connect with me:**
