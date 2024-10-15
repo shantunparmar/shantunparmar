@@ -9,6 +9,9 @@ A Full Stack Software Developer
 * Obtaining an Python Certification
 * Learning something new everyday
 * 🔜
+
+## Blog
+⭐️ From [Earn Money by Solving Programming Quizzes](https://shantun.medium.com/earn-money-by-solving-programming-quizzes-top-website-and-tools-00adf54e6348)
  
  ## ⚡ Technologies
 Talk to me about
