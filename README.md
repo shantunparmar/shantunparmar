@@ -10,6 +10,7 @@ A Full Stack Software Developer
 * Learning something new everyday
   
 <img src="https://media.gifbuz.com/resources/Wcui8os9pi_3gIvFVXHef1673268870876" width="100">
+
 ### [Stylish API Response Visualizer](https://shantun.medium.com/a-stylish-api-response-visualizer-for-json-xml-cde525bc8038) 
 
 ## Blog
