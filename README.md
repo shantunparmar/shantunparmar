@@ -8,7 +8,9 @@ A Full Stack Software Developer
 * A few side projects for my portfolio
 * Obtaining an Python Certification
 * Learning something new everyday
-* 🔜
+  
+<img src="https://media.gifbuz.com/resources/Wcui8os9pi_3gIvFVXHef1673268870876" width="100">
+### [Stylish API Response Visualizer](https://shantun.medium.com/a-stylish-api-response-visualizer-for-json-xml-cde525bc8038) 
 
 ## Blog
 ⭐️ From [Earn Money by Solving Programming Quizzes](https://shantun.medium.com/earn-money-by-solving-programming-quizzes-top-website-and-tools-00adf54e6348)
