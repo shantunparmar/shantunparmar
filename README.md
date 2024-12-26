@@ -11,7 +11,7 @@ A Full Stack Software Developer
   
 <img src="https://media.gifbuz.com/resources/Wcui8os9pi_3gIvFVXHef1673268870876" width="100">
 
-### [Stylish API Response Visualizer](https://shantun.medium.com/a-stylish-api-response-visualizer-for-json-xml-cde525bc8038) 
+### [Top 30 Coding Tools Every Developer Should Know About](https://medium.com/javascript-in-plain-english/top-30-unseen-coding-tools-every-developer-should-know-about-d3e821bd2698) 
 
 ## Blog
 ⭐️ From [Earn Money by Solving Programming Quizzes](https://shantun.medium.com/earn-money-by-solving-programming-quizzes-top-website-and-tools-00adf54e6348)
